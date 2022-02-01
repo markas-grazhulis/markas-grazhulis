@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on different repos
-- 📫 How to reach me @grazhulis
+- 📫 How to reach me https://t.me/markasrocky
 
 <!---
 markas-grazhulis/markas-grazhulis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
